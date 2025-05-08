@@ -1,0 +1,1 @@
+You need llama3.2 model and OpenAI api key to run this notebook.
